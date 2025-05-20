@@ -57,9 +57,9 @@ Name: Neha K A
 Github:https://github.com/Nehaka-del
 Email: neha.a1@s.amity.edu
 
- 🙏 Acknowledgements
+Acknowledgements
 
-- [othneildrew's Best-README-Template](https://github.com/othneildrew/Best-README-Template) — for the README structure and inspiration
+- Inspired by [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
 
